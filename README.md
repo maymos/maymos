@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mayowa Arowosafe
-- 👀 I’m interested in Python programming, Machine Learning, Web Design etc.
+- 👀 I’m interested in Python programming, Machine Learning, Web Design, Metaverse Blockchain Technology etc.
 - 🌱 I’m currently learning Python Programming and Web Development
 - 💞️ I’m looking to collaborate on the these above stuffs
 - 📫 How to reach me ...
